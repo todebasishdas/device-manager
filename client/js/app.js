@@ -1,1 +1,1 @@
-var app = angular.module("device-manager", ['ngResource']);
+var appModule = angular.module("device-manager", ['ngResource']);
