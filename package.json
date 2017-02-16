@@ -1,6 +1,7 @@
 {
   "name": "device-manager",
-  "version": "0:0:1",
+  "description": "Device Manager Node server",
+  "version": "0.1.0",
   "dependencies": {
     "express": "^4.14.0"
   }
